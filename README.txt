@@ -25,4 +25,7 @@ and creates version out of it.
 This Can be use full if we did some dirty pieces of code and no more want it. inseted of deleting every line bye line,
 we can restore last clean version of the file.
 
-11. `git restore --staged <file?` -> it removes files from staging area to  working area
+11. `git restore --staged <file>` -> it removes files from staging area to  working area
+12. difference between git rm and git restore 
+ans : if you want to move whole file back to untracked file, we do git rm
+      if you just want to move in working area or staging area we do git git restore
