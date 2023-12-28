@@ -29,3 +29,6 @@ we can restore last clean version of the file.
 12. difference between git rm and git restore 
 ans : if you want to move whole file back to untracked file, we do git rm
       if you just want to move in working area or staging area we do git git restore
+
+13. `git diff commit1 commit2` -> gives difference of all files changes
+14. `git commit -m <commit_msg>` -> commit without opening vim editior
