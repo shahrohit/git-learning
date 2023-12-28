@@ -24,3 +24,5 @@ and creates version out of it.
 10. `git restore <file>` -> remove all files changes from staging area to be commited. 
 This Can be use full if we did some dirty pieces of code and no more want it. inseted of deleting every line bye line,
 we can restore last clean version of the file.
+
+11. `git restore --staged <file?` -> it removes files from staging area to  working area
