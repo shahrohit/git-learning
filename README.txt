@@ -18,4 +18,9 @@ and file in this area, git already manages then and knows there version history.
 7. `commit` -> commit is a particular version of the project. It captures a snapshot of the project's stages changes
 and creates version out of it.
 
-8. `git commit` -> register staging changes to  a commit
+8. `git commit` -> register staging changes to  a commit.
+9. `git log` -> list all the commits of the respository.
+
+10. `git restore <file>` -> remove all files changes from staging area to be commited. 
+This Can be use full if we did some dirty pieces of code and no more want it. inseted of deleting every line bye line,
+we can restore last clean version of the file.
