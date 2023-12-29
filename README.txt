@@ -32,3 +32,15 @@ ans : if you want to move whole file back to untracked file, we do git rm
 
 13. `git diff commit1 commit2` -> gives difference of all files changes
 14. `git commit -m <commit_msg>` -> commit without opening vim editior
+15. `git remote` -> list down all the remote connections names
+16. remote connection ->  It helps you to link two git repositories for uploading and downloading changes
+    from each other
+
+17. `git remote add <remote name> <link of remote>` -> this command helps us to add a new link to the remote repositories 
+    and give a name to it
+
+18. `git remote rm <name of remote>` : this command delete a remote connection
+19. `git remote rename <oldname> <newname>` : this command renames the remote connections
+
+Note: The name of the remoter connections is always used to established communication between the repositories
+ 
