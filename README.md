@@ -48,3 +48,10 @@ Note: The name of the remote connections is always used to established communica
 21. `git add .` : add all files from working repos to staging area
 
 22. `git pull <remote name> <branch name>` : downloads the latest changes from the branches of the mentioned remote in your local repos
+
+### Recomended Practice to do
+
+    - make changes
+    - git add <file>
+    - git pull
+    - git push
