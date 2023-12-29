@@ -42,4 +42,7 @@
 18. `git remote rm <name of remote>` : this command delete a remote connection
 19. `git remote rename <oldname> <newname>` : this command renames the remote connections
 
-Note: The name of the remoter connections is always used to established communication between the repositories
+Note: The name of the remote connections is always used to established communication between the repositories
+
+20. `git add <file1> <file2> <file3>` -> this commamd will add multiple files in staging area
+21. `git add .` : add all files from working repos to staging area
