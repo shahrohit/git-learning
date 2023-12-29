@@ -46,3 +46,5 @@ Note: The name of the remote connections is always used to established communica
 
 20. `git add <file1> <file2> <file3>` -> this commamd will add multiple files in staging area
 21. `git add .` : add all files from working repos to staging area
+
+22. `git pull <remote name> <branch name>` : downloads the latest changes from the branches of the mentioned remote in your local repos
