@@ -55,3 +55,5 @@ Note: The name of the remote connections is always used to established communica
     - git add <file>
     - git pull
     - git push
+    
+23. merge conflicts are very common thing 
