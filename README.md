@@ -55,3 +55,5 @@ Note: The name of the remote connections is always used to established communica
     - git add <file>
     - git pull
     - git push
+
+merge conflict can occurs when if multiple people try to change in the same file and then collabrate
