@@ -4,7 +4,7 @@
 2. `working area` -> there can be bunch of files that are not currently handled b git.
    It means that changes done or to be done in those files are not managed by git yet. A file which is in
    working area is considered to be not in staging are. When we do git status we see bunch of `untracked file`
-   then these are to be inthe working are
+   then these are to be inthe working are.
 
 3. `staging area` -> what are files which are going to be part of next version that we will create.
    This staging area is the place where git knows what changes will be done from last version to next version.
